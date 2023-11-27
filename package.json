@@ -2,7 +2,20 @@
   "name": "learning-typescript",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Narsiskh/learning-typescript.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Narsiskh/learning-typescript.git"
+  },
   "author": "Narsis <narsiskh.2013@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/Narsiskh/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/Narsiskh/learning-typescript#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
 }
